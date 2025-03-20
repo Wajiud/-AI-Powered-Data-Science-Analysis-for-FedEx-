@@ -18,9 +18,7 @@ Graph Analysis: NetworkX
 Time Series Forecasting: Prophet
 Geospatial Analysis: GeoPandas
 📁 Project Structure
-bash
-Copy
-Edit
+ 
 📂 FedEx_AI_Powered_Data_Science_Analysis  
  ├── 📜 FedEx_AI_Powered_Data_Science_Analysis.ipynb  # Jupyter Notebook with analysis  
  ├── 📜 fedex.csv  # Dataset used for analysis  
@@ -29,22 +27,15 @@ Edit
 🚀 How to Run
 Clone the Repository
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/FedEx_AI_Analysis.git
-cd FedEx_AI_Analysis
+
+git clone https://github.com/Wajiud/-AI-Powered-Data-Science-Analysis-for-FedEx-
 Install Dependencies
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the Jupyter Notebook
 
-bash
-Copy
-Edit
+
 jupyter notebook
 Open FedEx_AI_Powered_Data_Science_Analysis.ipynb and execute the cells.
 
@@ -60,6 +51,6 @@ Feel free to fork this repo, open issues, or submit pull requests.
 This project is licensed under the MIT License.
 
 🔥 Notes:
-Replace "https://github.com/your-username/FedEx_AI_Analysis.git" with your actual GitHub repo link.
+Replace "https://github.com/Wajiud/-AI-Powered-Data-Science-Analysis-for-FedEx-" with your actual GitHub repo link.
 If you don’t have requirements.txt, I can generate it for you.
 Let me know if you need modifications! 🚀
